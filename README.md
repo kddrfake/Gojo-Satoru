@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/Dineth-06-21" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/3d77496ed09a6e0e5a6f9.jpg" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
