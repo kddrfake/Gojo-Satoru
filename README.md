@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/Dineth-06-21" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
 
-> Automated Multi Device whatsapp bot created by [nexusNw](github.com/nexusNw)
+> Automated Multi Device whatsapp bot created by [Dineth Randinu](github.com/kddrfake)
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/nexusNw/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/kddrfake/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
@@ -37,8 +37,8 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
-* Fork This Repo By Clicking [Here](https://github.com/nexusNw/Gojo-Satoru/fork)
-* then Deploy The Bot From [Here](https://gist.githubusercontent.com/nexusNw/49b7cfc46404cb6f079f2d25ad8ddc6c/raw/77d1babeab59495bf1f677669739dc4fbae6dbaf/nexusnw)
+* Fork This Repo By Clicking [Here](https://github.com/kddrfake/Gojo-Satoru/fork)
+* then Deploy The Bot From [Here](https://gist.githubusercontent.com/kddrfake/49b7cfc46404cb6f079f2d25ad8ddc6c/raw/77d1babeab59495bf1f677669739dc4fbae6dbaf/kddrfake)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
@@ -59,7 +59,7 @@ Add FFmpeg to PATH environment variable
 > pkg install ffmpeg -y 
 > pkg install wget
 > pkg install imagemagick -y
-> git clone https://github.com/nexusNw/Gojo-Satoru
+> git clone https://github.com/kddrfake/Gojo-Satoru
 > cd Gojo-Satoru
 > npm install
 ```
@@ -72,8 +72,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94703199484"]
+global.ownername = ["Dineth Randinu"]
 ```
 </details>
 
@@ -122,7 +122,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94703199484"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
